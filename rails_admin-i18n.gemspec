@@ -6,7 +6,7 @@
 
 Gem::Specification.new do |s|
   s.name = "rails_admin-i18n".freeze
-  s.version = "1.11.3"
+  s.version = "1.11.4"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0".freeze) if s.respond_to? :required_rubygems_version=
   s.require_paths = ["lib".freeze]
