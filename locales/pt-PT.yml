@@ -1,4 +1,4 @@
-pt-BR:
+pt-PT:
   date:
     month_names: [~, Janeiro, Fevereiro, Março, Abril, Maio, Junho, Julho, Agosto, Setembro, Outubro, Novembro, Dezembro]
   admin:
@@ -66,8 +66,8 @@ pt-BR:
       message: Mensagem
     actions:
       multiple_upload:
-        menu: "Carregar vários"
-        breadcrumb: "Carregar vários"
+        menu: "Adicionar vários"
+        breadcrumb: "Adicionar vários"
       dashboard:
         title: Administração do site
         menu: Dashboard
