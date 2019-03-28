@@ -67,6 +67,7 @@ pt:
     actions:
       multiple_upload:
         menu: "Adicionar vários"
+        title: "Adicionar vários"
         breadcrumb: "Adicionar vários"
       dashboard:
         title: Administração do site
