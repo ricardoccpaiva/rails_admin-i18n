@@ -47,6 +47,7 @@ Gem::Specification.new do |s|
     "locales/lt.yml",
     "locales/nl.yml",
     "locales/pl.yml",
+    "locales/pt-PT.yml",
     "locales/pt-BR.yml",
     "locales/ro.yml",
     "locales/ru.yml",
@@ -93,4 +94,3 @@ Gem::Specification.new do |s|
     s.add_dependency(%q<localeapp>.freeze, [">= 0"])
   end
 end
-
