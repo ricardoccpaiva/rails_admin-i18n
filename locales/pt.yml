@@ -66,9 +66,9 @@ pt:
       message: Mensagem
     actions:
       multiple_upload:
-        menu: "Adicionar vários"
-        title: "Adicionar vários"
-        breadcrumb: "Adicionar vários"
+        menu: "Adicionar"
+        title: "Adicionar"
+        breadcrumb: "Adicionar"
       dashboard:
         title: Administração do site
         menu: Dashboard
